@@ -1,0 +1,8 @@
+/build/
+/.arduino/
+/.vscode/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+arduino-cli.yaml
