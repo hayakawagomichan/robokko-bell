@@ -1,5 +1,7 @@
 # ロボっこのクリスマスベル — ATOM Voice
 
+<img src="docs/images/christmas-bell.jpg" alt="リボンとヒイラギで飾ったロボっこのクリスマスベル" width="560">
+
 **パン、パン。手をたたくと、クリスマスの音がする。**
 
 手のひらにおさまるATOM Voiceひとつで、拍手に反応するクリスマスベルをつくります。
